@@ -1,5 +1,6 @@
 
   
+<<<<<<< HEAD
   3 medium zucchini
   <<<<<<< HEAD
   ---Poultry,Fish and Meats--
@@ -49,3 +50,61 @@
   
     
     --Bread--
+=======
+ 1.Veggie Burger
+
+
+•	2 tbsp olive oil
+
+•	2 onions
+
+•	, finely chopped
+•	250g bag spinach
+
+•	5 slices white bread, blitzed into breadcrumbs (or 150g dried breadcrumbs)
+•	good grating of fresh nutmeg
+
+•	100g mature cheddar, grated
+•	40g parmesan
+
+•	, finely grated
+•	1-2 large eggs, beaten
+•	3 tbsp plain flour
+
+2.Risotto with peas & broad beans
+
+
+1 tbsp olive oil
+100g cold butter
+, diced
+1 small onion
+ or 2 shallots, chopped
+175g risotto rice
+100ml white wine
+600ml hot vegetable stock
+50g parmesan
+, finely grated
+200g fresh peas
+, podded (about 1kg/2lb 4oz unpodded weight)
+200g broad beans
+, podded (about 1kg/2lb 4oz unpodded weight)
+
+3. Ratatouille
+
+
+
+Ingredients
+
+2 large aubergines
+4 small courgettes
+2 red or yellow peppers
+4 large ripe tomatoes
+5 tbsp olive oil
+supermarket pack or small bunch basil
+1 medium onion
+, peeled and thinly sliced
+3 garlic cloves, peeled and crushed
+1 tbsp red wine vinegar
+1 tsp sugar
+ (any kind)
+>>>>>>> ce38ed9db5a73c057fd21305b56d38e620d4ba5c
