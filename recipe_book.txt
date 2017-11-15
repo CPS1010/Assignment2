@@ -12,7 +12,13 @@ with you our first book with the following recipes.
 
 2.Add onion and lemon juice, reserving 1 teaspoon of juice. Season to taste and mix well.
 
+<<<<<<< HEAD
 3.Transfer to serving bowl. Chill until required. When ready to serve, drizzle reserved juice over and sprinkle with parsley.
+=======
+5: Bake for about 20 minutes (200 oC fan forced) or until the edges of the pizza are golden brown.
+----Main #2:Spaghetti Bolognese----
+1.Heat the SuperValu Oil in a frying pan.
+>>>>>>> a9a43517118cdc02705765767850e25e55cb8b7d
 
 =======
 --Starters--
@@ -36,8 +42,14 @@ Cut the tomatoes into halves or quarters and squeeze out most of the juices and 
 
 2.Preheat oven to 450°F (230°C) with a rack in the top slot of the oven.
 
+<<<<<<< HEAD
 3.Chop tomatoes, toss them with garlic, olive oil, vinegar, basil, salt and pepper: Finely chop the tomatoes and place them in a medium bowl. Mix in the minced garlic, 1 Tbsp extra virgin olive oil, and the balsamic vinegar.
 Stir in the thinly sliced basil and add salt and freshly ground black pepper, adding more to taste. Note, tomatoes love salt; you may need to add more than you expect.
+=======
+8.Toss together, thinning with pasta water, if needed, and serve with the extra basil leaves with Parmesan shavings on top.
+----Main #3:Pizza Norma---- 
+1:On your kitchen surface mix the flour with the salt and make a well in the middle.
+>>>>>>> a9a43517118cdc02705765767850e25e55cb8b7d
 
 4.Toast the baguette slices: Use a bread knife to slice the baguette on the diagonal making half-inch thick slices. Brush one side of each slice with olive oil (a pastry brush helps here) and place olive oil-side down on a baking sheet or roasting pan.
 The baguette slices will toast best in the top rack of your oven, so you may need to work in batches to toast them all.
@@ -130,5 +142,10 @@ Method:
 8:some more flour next to you and use it on the rolling pin so that the dough won't ruin or make holes. Choose the thickness according to your taste, then place it on a baking tray.
 
 9:Heat the oven on 180°. Now we are ready to make our pizza!
+<<<<<<< HEAD
 Spread 2-3 table spoons of tomato sauce, few leaves of fresh basil in little pieces, cover all up with mozzarella cheese and place the fried aubergine/eggplant on top. Finally sprinkle with little grated parmesan cheese. Place in the oven for about 15 minutes, but if you have rolled out the dough quite thin, better to check after 10 minutes.
 >>>>>>> 209c45e9f3b4573565bf0732f374d7c3b773d486
+=======
+Spread 2-3 table spoons of tomato sauce, few leaves of fresh basil in little pieces, cover all up with mozzarella cheese and place the fried aubergine/eggplant on top. Finally sprinkle with little grated parmesan cheese. Place in the oven for about 15 minutes, but if you have rolled out the dough quite thin, better to check after 10 minutes. 
+>>>>>>> pizza-pasta
+>>>>>>> a9a43517118cdc02705765767850e25e55cb8b7d
