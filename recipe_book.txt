@@ -1,74 +1,54 @@
-1.Veggie Burger
-	Heat half the oil in a frying pan and gently fry the onions for about 10 mins until pale and soft, then leave to cool a little.
-2.	Finely chop the spinach in a food processor and tip into a bowl. Add the cooled onion, breadcrumbs, nutmeg, cheddar and Parmesan, and mash together. Add the beaten egg, a little at a time (you may not need all of it), until the mixture holds together. Divide into eight (see tip below) and shape into fat burgers.
-3.	Put the flour in a shallow bowl, season well and dip the burgers into the flour to coat. Store in a plastic container between layers of baking parchment. Either chill until ready to cook, or freeze.
-4.	Heat the remaining oil in the frying pan and fry for about 5 mins each side until browned all over. Serve in the crusty rolls, with a couple of slices of tomato, ketchup and sweet potato fries on the side, if you like
++<<<<<<< HEAD
+  ﻿Introduction:
+  This recipe book was made by people that love
+  making food for people that love eating food.
+  Method:
+  2.Spread the caramel over the base. Just spread it out with a spoon or a spatula.
+  3.Slice the bananas and scatter them over the top, then put the cream on top and decorate with grated chocolate. Just keep it in the fridge until you’re ready.
+  Conclusion: We hope you enjoyed trying out these recipes of our first book. Stay tuned for our second book!
 
-•	2 tbsp olive oil
-
-•	2 onions
-
-•	, finely chopped
-•	250g bag spinach
-
-•	5 slices white bread, blitzed into breadcrumbs (or 150g dried breadcrumbs)
-•	good grating of fresh nutmeg
-
-•	100g mature cheddar, grated
-•	40g parmesan
-
-•	, finely grated
-•	1-2 large eggs, beaten
-•	3 tbsp plain flour
-
-2.Risotto with peas & broad beans
-
-Method:
-
-1.Heat oil and 25g of the butter in a large pan over a medium heat. Add the onion and cook until soft and translucent, about 4-5 mins. 
-2.Stir in the rice and cook for a further 2 mins. Turn up the heat and add the wine, let it bubble to evaporate the alcohol.
-3.Once the wine has reduced, begin adding the hot stock a ladle at a time over a medium heat, allowing each addition to be absorbed before adding the next and stirring continuously. The rice should always be moist, but not swimming in liquid. The process of adding and stirring should take about 16-20 mins, depending on what kind of risotto rice you use.
-4.Bring a pan of salted water to the boil and blanch the peas and beans for 2-3 mins. Drain and set aside. Remove the risotto from the heat and stir in the remaining butter, Parmesan, peas and beans with some seasoning before serving.
-Ingredients
-
-1 tbsp olive oil
-100g cold butter
-, diced
-1 small onion
- or 2 shallots, chopped
-175g risotto rice
-100ml white wine
-600ml hot vegetable stock
-50g parmesan
-, finely grated
-200g fresh peas
-, podded (about 1kg/2lb 4oz unpodded weight)
-200g broad beans
-, podded (about 1kg/2lb 4oz unpodded weight)
-
-3. Ratatouille
-
-
-Method:
-
-
-Cut the aubergines in half lengthways. Place them on the board, cut side down, slice in half lengthways again and then across into 1.5cm chunks. Cut off the courgettes ends, then across into 1.5cm slices. Peel the peppers from stalk to bottom. Hold upright, cut around the stalk, then cut into 3 pieces. Cut away any membrane, then chop into bite-size chunks.
-Score a small cross on the base of each tomato, then put them into a heatproof bowl. Pour boiling water over the tomatoes, leave for 20 secs, then remove. Pour the water away, replace the tomatoes and cover with cold water. Leave to cool, then peel the skin away. Quarter the tomatoes, scrape away the seeds with a spoon, then roughly chop the flesh.
-Set a sauté pan over medium heat and when hot, pour in 2 tbsp olive oil. Brown the aubergines for 5 mins on each side until the pieces are soft. Set them aside and fry the courgettes in another tbsp oil for 5 mins, until golden on both sides. Repeat with the peppers. Don’t overcook the vegetables at this stage, as they have some more cooking left in the next step.
-Tear up the basil leaves and set aside. Cook the onion in the pan for 5 mins. Add the garlic and fry for a further min. Stir in the vinegar and sugar, then tip in the tomatoes and half the basil. Return the vegetables to the pan with some salt and pepper and cook for 5 mins. Serve with basil.
-
-
-Ingredients
-
-2 large aubergines
-4 small courgettes
-2 red or yellow peppers
-4 large ripe tomatoes
-5 tbsp olive oil
-supermarket pack or small bunch basil
-1 medium onion
-, peeled and thinly sliced
-3 garlic cloves, peeled and crushed
-1 tbsp red wine vinegar
-1 tsp sugar
- (any kind)
+ ﻿----Main #1:Pizza Primavera----
+ 1:Stir the yeast in warm water in a bowl, add the sugar and leave to sit for about 5 minutes until the mixture is a bit bubbly. Stir in the olive oil. Mix the salt with the flour in a large bowl, add the yeast mixture and knead until a smooth and elastic dough is formed. (I prefer to do this on a clean floured surface rather than in a bowl).
+ 
+ 2:Return the dough to the bowl and coat lightly with a drizzle of olive oil. Let it rise for about an hour, until it has doubled in size.
+ 
+ 3:Punch the dough down and roll ourt to preferred size and thickness. Bake in a preheated oven for about 5 minutes before adding the topping.
+ 
+ 4:Cover the dough with the tomato puree but leave about half an inch around the edge. Cover with mozzarella and sprinkle with some oregano. Cut the sausage and the cheeslet in thick slices and spread around together with the whole olives and sun dried tomatoes. Sprinkle with some freshly ground black pepper (do not add salt since the sausage is quite salty).
+ 
+ 5: Bake for about 20 minutes (200 oC fan forced) or until the edges of the pizza are golden brown.
+ ----Main #2:Spaghetti Bolognese----
+ 1.Heat the SuperValu Oil in a frying pan.
+ 
+ 2.Add carrot, onion and cook for 5 mins to soften.
+ 
+ 3.Add streaky bacon and garlic and toss in pan for 3 mins.
+ 
+ 4.Add minced meat to pan and cook for 5 mins or until all meat is cooked.
+ 
+ 5.Pour the tomatoes, tomato paste, chopped rosemary and basil into mixture and simmer for 15 mins.
+ 
+ 6.Cook spaghetti according to pack instructions with a splash of SuperValu olive oil and a pinch of salt.
+ 
+ 7.Reserve some of the cooking water, drain and pour the pasta into the pan along with the sauce.
+ 
+ 8.Toss together, thinning with pasta water, if needed, and serve with the extra basil leaves with Parmesan shavings on top.
+ ----Main #3:Pizza Norma---- 
+ 1:On your kitchen surface mix the flour with the salt and make a well in the middle.
+ 
+ 2:In a jug mix the yeast with "some" of the warm water and the sugar, whisk it using a fork and leave it there for few minutes.
+ 
+ 3.Pour it into the well;
+ 
+ 4:Add the oil of olive and start kneading until you have a smooth, elastic and compact dough.
+ 
+ 5:Keep adding the remaining water, little by little, letting it to be absorbed and give it the shape of a ball. 
+ 
+ 6:Place the ball in a large bowl dusted with flour at the bottom, cover it with a cloth and let it rise in a warm place, far from airstreams, (like the oven for example) for at least an hour or until the dough has doubled in size.
+ 
+ 7:While the pizza is rising, you can cut the aubergine/eggplant in slices and fry them in a pan filled with olive oil. Now it's time to roll out the pizza with your rolling pin. 
+ 
+8:some more flour next to you and use it on the rolling pin so that the dough won't ruin or make holes. Choose the thickness according to your taste, then place it on a baking tray.
+ 
+ 9:Heat the oven on 180°. Now we are ready to make our pizza!
+ Spread 2-3 table spoons of tomato sauce, few leaves of fresh basil in little pieces, cover all up with mozzarella cheese and place the fried aubergine/eggplant on top. Finally sprinkle with little grated parmesan cheese. Place in the oven for about 15 minutes, but if you have rolled out the dough quite thin, better to check after 10 minutes. 
