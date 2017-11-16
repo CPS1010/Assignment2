@@ -1,13 +1,10 @@
-
-<<<<<<< HEAD
-
+﻿<<<<<<< HEAD
   <<<<<<< HEAD
   ---Poultry,Fish and Meats--
    1kg piece centre-cut beef fillet, trimmed
    tuna
 
-     
-    --Fruit--
+--Fruit--
     Zest of 2 lemon
  =======
  2 tbsp Sun Dried Tomato Paste 
@@ -46,9 +43,6 @@
  600 ml lukewarm water
  20 gr salt
  +>>>>>>> pizza-pasta
-  
-    
-
 =======
   
   2 tbsp olive oil
@@ -84,9 +78,6 @@
 , podded (about 1kg/2lb 4oz unpodded weight)
 200g broad beans
 , podded (about 1kg/2lb 4oz unpodded weight)
-
-
-
 
 Ingredients
 
