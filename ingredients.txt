@@ -20,6 +20,7 @@
  6 x  Smoked Bacon Rashers 
  400 g Spaghetti
 -------------------------------------
+<<<<<<< HEAD
  0.5 cup warm water
  1 1/2 tbsp olive oil
  2.5 oz yeast; 1 package
@@ -94,3 +95,32 @@ supermarket pack or small bunch basil
 1 tsp sugar
  (any kind)
 >>>>>>> ae3a0c011a298210c76cb355efed7dff82574a1a
+=======
+•0.5 cup warm water
+•1 1/2 tbsp olive oil
+•2.5 oz yeast; 1 package
+•1 tsp Sugar
+•1 tsp Salt
+•1 1/2 cup Flour
+•5 black olives
+•1 Maltese sausage
+•4 sun dried tomatoes
+•2 small Maltese peppered cheeslets
+•Tomato puree
+•Grated mozzarella; (amount as preferred)
+•Oregano
+•Pepper
+---------------------------------------
+1 kg strong white bread flour
+25 gr brewer's yeast
+1 tablespoon sugar
+4-5 table spoon of e.v. olive oil
+600 ml lukewarm water
+20 gr salt
+For the pizza:
+tomato sauce
+few  leaves of fresh basil
+mozzarella cheese
+1 fried aubergine/eggplant
+a sprinkle of grated Parmesan cheese
+>>>>>>> pizza-pasta
